@@ -7,7 +7,7 @@ import time
 # =========================
 client = OpenAI(
     base_url="http://34.136.132.241:8000/v1",
-    api_key="imiashrafnomiashrafhussaini203147415272",
+    api_key="",
     timeout=60.0,       # ← wait up to 60 seconds
     max_retries=2       # ← retry twice on failure
 )
